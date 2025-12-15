@@ -159,12 +159,3 @@ Contoh request:
   "session_id": "optional-session-id"
 }
 ```
-
----
-
-## Catatan Tambahan
-
-* State percakapan dan progres dikelola di sisi server.
-* Cocok digunakan sebagai *learning assistant*, *chat-based recommender system*, atau dasar pengembangan LMS berbasis AI.
-
----
