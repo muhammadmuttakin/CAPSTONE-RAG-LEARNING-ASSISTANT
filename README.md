@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenAI_Logo.svg](https://logos-world.net/wp-content/uploads/2025/02/Google-Gemini-Logo.png)" alt="LLM" height="40"/>
-  <img src="https://railway.app/brand/logo-light.svg" alt="Railway" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-LLM%20Pipeline-8A2BE2" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-4B8BBE" />
+  <img src="https://img.shields.io/badge/Deployment-Railway-black?logo=railway&logoColor=white" />
 </p>
 
 # Dicoding Personal Learning Assistant (RAG-Based)
